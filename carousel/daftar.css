@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+thead{
+  background-color: black;
+}
+table{
+  border-collapse: collapse;
+  width: 90%;
+  margin: 10px auto 10px auto;
+}
+td{
+  padding-left: 10px;
+}
+table thead th{
+  background-color: #216286;
+  border: 1px solid black;
+  color: black;
+  padding: 10px;
+  text-align: left;
+}
+table tbody td{
+  border: 1px solid black;
+  color: #333;
+  padding: 10px;
+}
+button{
+  background-color: #ff8e46;
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 7px;
+  margin-top: 20px;
+  border: none;
+}
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 14px 10px;
+}
+ul{
+  padding: 10px;
+}
+li{
+  list-style: none;
+  display: inline;
+}
+li a{
+  color:#d4d4d4;
+}
+li a:hover{
+  background: #4da4ff;
+  color:#fff;
+}
+.nav{
+  background: #216286;
+  height: 50px;
+}
+.abc{
+  background-color: black;
+}
+.tombol{
+  color: black;
+  background-color: #000000;
+  border-radius: 5px;
+  font-size: 12px;
+  text-align: center;
+}
+input.placeholder{
+  text-align: center;
+}
